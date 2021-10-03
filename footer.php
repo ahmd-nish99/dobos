@@ -15,14 +15,14 @@
 
     <!-- Right -->
     <div>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-facebook-f"></i>
+      <a href="https://www.facebook.com/Bobos.bbp" class="me-4 text-reset">
+        <i class="fab fa-facebook"></i>
       </a>
-      <a href="" class="me-4 text-reset">
+      <!-- <a href="" class="me-4 text-reset">
         <i class="fab fa-twitter"></i>
-      </a>
+      </a> -->
     
-      <a href="" class="me-4 text-reset">
+      <a href="https://www.instagram.com/bobos.bbp/" class="me-4 text-reset">
         <i class="fab fa-instagram"></i>
       </a>
      

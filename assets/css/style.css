@@ -1,7 +1,7 @@
 .navbarcustome {
     position: relative;
     margin: 0;
-    margin-top: -20% !important;
+    margin-top: -5% !important;
     padding: 0 !important;
     display: flex;
     flex-wrap: wrap;
@@ -95,4 +95,8 @@ a.theme-btn:hover {
 .square-transition {
     opacity: 1;
     transform: none;
+}
+
+.card-text {
+    color: #000000;
 }
