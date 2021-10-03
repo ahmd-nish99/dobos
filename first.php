@@ -64,21 +64,24 @@ include_once "nav.php";
     <div class="col-sm-3 square square-transition sqrbox mx-2 my-2" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
       <img src="assets\images\eco-logo.png" class="d-block w-25 mx-auto" alt="...">
       <h2 class="brushfont"> ECO Friendly</h2>
-      <p>We use clay pots insted of plastic to save the mother earth and improve the quality of the food</p>
+      <p>We Love Our Mother Land! All Our
+Packaging Is Plastic -Free , Compostable ,
+Recyclable, Re - useable, Bio Degradeable, Gas - Safe Pot
+</p>
     </div>
 
 
 
     <div class="col-sm-3 square square-transition sqrbox mx-2 my-2" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
       <img src="assets\images\fresh.png" class="d-block w-25 mx-auto" alt="...">
-      <h2>Heading</h2>
+      <h2 class="brushfont">Heading</h2>
       <p>Donec id elit non mi porta mollis euismod. Donec sed odio dui. </p>
     </div>
 
 
     <div class="col-sm-3 square square-transition sqrbox mx-2 my-2 " data-aos="zoom-in" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
       <img src="assets\images\quality.png" class="d-block w-25 mx-auto" alt="...">
-      <h2>Heading</h2>
+      <h2 class="brushfont">Heading</h2>
       <p>Donec sed odio dui. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
 
     </div>
@@ -89,222 +92,196 @@ include_once "nav.php";
 
 
 
-<!-- ------------MENU for the shop------------------------------------------------------------------------------- -->
 
-
-
-<div id="menu" class="container-fluid ">
+<!-- -------------------------------------------------------------------------------------------------------------------------- -->
+<div class="containe mx-3" id="menu">
   <div class=" text-center heading-section ftco-animate">
     <p class=" brushfont">Menu</p>
 
 
-
-    <div id="myBtnContainer">
+    <div id="myBtnContainer text-center heading-section">
       <button class="btn active" onclick="filterSelection('all')"> Show all</button>
       <button class="btn" onclick="filterSelection('bpots')"> Biriyani Pots</button>
-      <button class="btn" onclick="filterSelection('lpack')"> Lunch Pack</button>
-      <button class="btn" onclick="filterSelection('mutt')"> Mutton Masala</button>
+      <button class="btn" onclick="filterSelection('lpack')"> Lunch Packs And Combos</button>
+      <button class="btn" onclick="filterSelection('masala')"> Mutton Masala</button>
       <button class="btn" onclick="filterSelection('bev')"> Bevarages</button>
     </div>
-  </div>
-
-  <!-- The filterable elements. Note that some have multiple class names (this can be used if they belong to multiple categories) -->
-
-  <!-- <div class="containermenue  ">
-
-
-
-    <div class="filterDiv bpots">
-      <div class="cardmenu" style="width: 18rem;">
-        <img class="card-img-top" src="assets/images/brijpg.jpg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> Biriyani </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-
-          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
-      </div>
-
-    </div>
-
-    <div class="filterDiv  bpots">
-      <div class="cardmenu  " style="width: 18rem;">
-        <img class="card-img-top" src="assets/images/brijpg.jpg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> Biriyani </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-
-          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
-      </div>
-    </div>
-
-    <div class="filterDiv lpack">
-      <div class="cardmenu  " style="width: 18rem;">
-        <img class="card-img-top" src="assets/images/brijpg.jpg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> Lunch Pack </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-
-          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
-      </div>
-    </div>
-    <div class="filterDiv lpack">
-      <div class="cardmenu  " style="width: 18rem;">
-        <img class="card-img-top" src="assets/images/brijpg.jpg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> Lunch Pack </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-
-          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
-      </div>
-    </div>
-    <div class="filterDiv bpots">
-      <div class="cardmenu  " style="width: 18rem;">
-        <img class="card-img-top" src="assets/images/brijpg.jpg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> Italian pizza </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-
-          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
-      </div>
-    </div>
-
-    <div class="filterDiv mutt">
-      <div class="cardmenu" style="width: 18rem;">
-        <img class="card-img-top" src="assets/images/brijpg.jpg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> Italian pizza </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-
-          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
-      </div>
-    </div>
-
-    <div class="filterDiv bev">
-      <div class="cardmenu" style="width: 18rem;">
-        <img class="card-img-top" src="assets/images/brijpg.jpg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> Italian pizza </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-
-          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
-      </div>
-
-    </div>
-    <div class="filterDiv bev">
-      <div class="cardmenu" style="width: 18rem;">
-        <img class="card-img-top" src="assets/images/brijpg.jpg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> Italian pizza </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-
-          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
-      </div>
-
-    </div>
-
+    <br />
   </div>
 
 
-</div> -->
 
 
-<!-- -------------------------------------------------------------------------------------------------------------------------- -->
-<div class="containe mx-3">
-<div class=" text-center heading-section ftco-animate">
-    <p class=" brushfont">Menu</p>
-	</div>
-    
-    <div class="myBtnContainer text-center heading-section">
-        <button class="btn btn-primary filter-button" data-filter="all">All</button>
-        <button class="btn btn-default filter-button" data-filter="bpots">bpots</button>
-        <button class="btn btn-default filter-button" data-filter="lpcks">lpcks</button>
-        <button class="btn btn-default filter-button" data-filter="bev">bev</button>
-        <button class="btn btn-default filter-button" data-filter="masala">masala</button>
+  <div class="row">
+    <div class="col-md-3 filterDiv bpots ">
+      <div class="cardmenu">
+        <img class="card-img-top" src="assets/images/biriyani.jpeg" alt="Card image cap">
+        <div class="card-body-menu ">
+          <h4>Biriyani Pot</h4>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
+        </div>
+      </div>
+
     </div>
-    <br/>
-    
-    <div class="row">
-        <div class="col-md-3 filter bpots">
-        <div class="cardmenu" >
-        <img class="card-img-top" src="assets/images/brijpg.jpg" alt="Card image cap">
+
+    <div class="col-md-3 filterDiv bpots">
+      <div class="cardmenu">
+        <img class="card-img-top" src="assets/images/biriyani_red.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4> Italian pizza </h4>
+          <h4>Biriyani Pots </h4>
           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
       </div>
-            
-        </div>
-        
-        <div class="col-md-3 filter graphic lpcks">
-        <div class="cardmenu" >
-        <img class="card-img-top" src="assets/images/brijpg.jpg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> Italian pizza </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-
-          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
-      </div>
-        </div>
-        
-        <div class="col-md-3 filter bpots">
-        <div class="cardmenu" >
-        <img class="card-img-top" src="assets/images/brijpg.jpg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> Italian pizza </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-
-          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
-      </div>
-        </div>
-        
-        <div class="col-md-3 filter graphic bev">
-        <div class="cardmenu">
-        <img class="card-img-top" src="assets/images/brijpg.jpg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> Italian pizza </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-
-          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
-      </div>
-        </div>
-        
-        <div class="col-md-3 filter webdesign bev">
-        <div class="cardmenu">
-        <img class="card-img-top" src="assets/images/brijpg.jpg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> Italian pizza </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-
-          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
-      </div>
-        </div>
-        
-        <div class="col-md-3 filter masala">
-        <div class="cardmenu" >
-        <img class="card-img-top" src="assets/images/brijpg.jpg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> Italian pizza </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-
-          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
-      </div>
-        </div>
     </div>
+
+
+    <div class="col-md-3 filterDiv bpots">
+      <div class="cardmenu">
+        <img class="card-img-top" src="assets/images/yelllobiriyani.jpeg" alt="Card image cap">
+        <div class="card-body-menu ">
+          <h4>Biriyani Pots </h4>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="col-md-3 filterDiv bpots">
+      <div class="cardmenu">
+        <img class="card-img-top" src="assets/images/yellowboriyani2.jpeg" alt="Card image cap">
+        <div class="card-body-menu ">
+          <h4>Biriyani Pots </h4>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-3 filterDiv  lpack">
+      <div class="cardmenu">
+        <img class="card-img-top" src="assets/images/box.jpeg" alt="Card image cap">
+        <div class="card-body-menu ">
+          <h4> Chicken Dum Biriyani Lunch Pack </h4>
+          <p class="card-text"> Bobo'sChicken Dum Biriyani Lunch Pack</p>
+
+          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-3 filterDiv  lpack">
+      <div class="cardmenu">
+        <img class="card-img-top" src="assets/images/boxmilkshakoe.jpeg" alt="Card image cap">
+        <div class="card-body-menu ">
+          <h4> Chicken Dum Biriyani Lunch Pack With A Bottle Of Almond Milk With Saffron </h4>
+          <p class="card-text">Bobos Chicken Dum Biriyani Lunch Pack With A Bottle Of Almond Milk With Saffron 200ml</p>
+
+          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="col-md-3 filterDiv  lpack">
+      <div class="cardmenu">
+        <img class="card-img-top" src="assets/images/boxredbott.jpeg" alt="Card image cap">
+        <div class="card-body-menu ">
+          <h4> Chicken Dum Biriyani Lunch Pack
+            With A Bottle Of Rose Mojito </h4>
+          <p class="card-text">Bobos Chicken Dum Biriyani Lunch Pack
+            With A Bottle Of Rose Mojito 200ml
+          </p>
+
+          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="col-md-3 filterDiv  lpack">
+      <div class="cardmenu">
+        <img class="card-img-top" src="assets/images/boxredbull.jpeg" alt="Card image cap">
+        <div class="card-body-menu ">
+          <h4> Chicken Dum Biriyani Lunch Pack With A Can Of Redbull </h4>
+          <p class="card-text">Bobos Chicken Dum Biriyani Lunch Pack
+            With A Can Of Redbull 250ml
+          </p>
+
+          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-3 filterDiv  lpack">
+      <div class="cardmenu">
+        <img class="card-img-top" src="assets/images/white.jpeg" alt="Card image cap">
+        <div class="card-body-menu ">
+          <h4> Bevarages </h4>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
+        </div>
+      </div>
+    </div>
+    <!-- ----------------------------------------------------------------------------------------------- -->
+    <div class="col-md-3 filterDiv  bev">
+      <div class="cardmenu">
+        <img class="card-img-top" src="assets/images/redbottle.jpeg" alt="Card image cap">
+        <div class="card-body-menu ">
+          <h4> Rose Mojito </h4>
+          <p class="card-text">BOBO'S Rose Mojito is a Refreshing, Non
+            Alcoholic Summer Drink Made From
+            Natural Rose Petals , Lime , Mint And Basil
+            Seeds
+          </p>
+
+          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="col-md-3 filterDiv  bev">
+      <div class="cardmenu">
+        <img class="card-img-top" src="assets/images/mikshake.jpeg" alt="Card image cap">
+        <div class="card-body-menu ">
+          <h4> ALMOND MILK WITH SAFFRON </h4>
+          <p class="card-text">BOBO'S ALMOND MILK WITH SAFFRON
+            Extremely Nutritious And Healthy , Loaded With Goodness Of Almonds And Saffron!
+            It Helps To Builds Immunity, Make Bones Stronger And Gives You Enough Nutrition And Energy To Perform You All Day!
+          </p>
+
+          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
+        </div>
+      </div>
+    </div>
+
+
+    <!----------------------------------------------------------------------------------------------  -->
+
+    <div class="col-md-3 filterDiv masala">
+      <div class="cardmenu">
+        <img class="card-img-top" src="assets/images/curry.jpeg" alt="Card image cap">
+        <div class="card-body-menu ">
+          <h4> Mutton Masala Pot </h4>
+          <p class="card-text">Succulent And Juicy Australian Boneless Mutton Chunks Combined With Aromatic Spices.
+
+          </p>
+
+          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!------------------------------------------------CUSTOMER REVIEW ------------------------------------------------------------------>
@@ -512,60 +489,60 @@ include_once "nav.php";
 <!----------------------------------contact us ------------------------------------------------------------------------------------->
 
 <div class="container-fluid" style="background-color: #000;">
-<div class="cswrapper " id="contact">
-  <div class="csoverlay">
-    <div class="row d-flex justify-content-center align-items-center">
-      <div class="col-md-9">
-        <div class="contact-us text-center ">
-          <p class=" brushfont">Contact Us</p>
-          <p class="mb-5">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
-         
-         
-          <div class="row">
-            <div class="col-md-6">
-              <div class="mt-5 text-center px-3">
+  <div class="cswrapper " id="contact">
+    <div class="csoverlay">
+      <div class="row d-flex justify-content-center align-items-center">
+        <div class="col-md-9">
+          <div class="contact-us text-center ">
+            <p class=" brushfont">Contact Us</p>
+            <p class="mb-5">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
 
-                <div class="d-flex flex-row align-items-center"> <span class="icons"><i class="fa fa-map-marker"></i></span>
-                  <div class="address cstextlft"> <span>Address</span>
-                    <p>461, Sugar camp, San jose, California, USA</p>
+
+            <div class="row">
+              <div class="col-md-6">
+                <div class="mt-5 text-center px-3">
+
+                  <div class="d-flex flex-row align-items-center"> <span class="icons"><i class="fa fa-map-marker"></i></span>
+                    <div class="address cstextlft"> <span>Address</span>
+                      <p>Devananda Road Piliyandala 10300 Piliyandala, Sri Lanka</p>
+                    </div>
+                  </div>
+
+                  <div class="d-flex flex-row align-items-center mt-3"> <span class="icons"><i class="fa fa-phone"></i></span>
+                    <div class="address cstextlft"> <span>Phone</span>
+                      <p>+94 77 715 4945</p>
+                    </div>
+                  </div>
+
+                  <div class="d-flex flex-row align-items-center mt-3"> <span class="icons"><i class="fa fa-envelope-o"></i></span>
+                    <div class="address cstextlft"> <span>Address</span>
+                      <p>info@bobosbiriyanipot.lk</p>
+                    </div>
                   </div>
                 </div>
 
-                <div class="d-flex flex-row align-items-center mt-3"> <span class="icons"><i class="fa fa-phone"></i></span>
-                  <div class="address cstextlft"> <span>Phone</span>
-                    <p>501 205 2929</p>
+              </div>
+
+              <div class="col-md-6">
+
+                <div class="text-center px-1">
+
+                  <div class="forms p-4 py-5 bg-white">
+                    <h5>Send Message</h5>
+                    <div class="mt-4 inputs"> <input type="text" class="form-control" placeholder="Name"> <input type="text" class="form-control" placeholder="Email"> <textarea class="form-control" placeholder="Type your message"></textarea> </div>
+                    <div class="button mt-4 text-left"> <button class="btn btn-dark">Send</button> </div>
                   </div>
+
                 </div>
 
-                <div class="d-flex flex-row align-items-center mt-3"> <span class="icons"><i class="fa fa-envelope-o"></i></span>
-                  <div class="address cstextlft"> <span>Address</span>
-                    <p>contact@bbbootstrap.com</p>
-                  </div>
-                </div>
               </div>
 
             </div>
-
-            <div class="col-md-6">
-
-              <div class="text-center px-1">
-
-                <div class="forms p-4 py-5 bg-white">
-                  <h5>Send Message</h5>
-                  <div class="mt-4 inputs"> <input type="text" class="form-control" placeholder="Name"> <input type="text" class="form-control" placeholder="Email"> <textarea class="form-control" placeholder="Type your message"></textarea> </div>
-                  <div class="button mt-4 text-left"> <button class="btn btn-dark">Send</button> </div>
-                </div>
-                
-              </div>
-
-            </div>
-
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
 </div>
 
 
@@ -576,8 +553,8 @@ include_once "footer.php";
 <style>
   .containermenue {
 
- overflow: hidden; 
-padding-left: 4%;
+    overflow: hidden;
+    padding-left: 4%;
 
 
 
@@ -637,19 +614,19 @@ padding-left: 4%;
   /* Add a dark background to the active button */
 
 
-.cswrapper {
+  .cswrapper {
     height: auto;
     background: #000;
     background: url("assets/images/body-bg.jpg");
-    
-}
 
-.csoverlay {
+  }
+
+  .csoverlay {
     height: 100vh;
     background: black;
     width: 100%;
 
-}
+  }
 
   .contact-us {
     margin-top: 50px;
@@ -726,125 +703,118 @@ padding-left: 4%;
     text-align: start;
   }
 
-  .port-image
-{
+  .port-image {
     width: 100%;
-}
+  }
 
-.col-md-3
-{
-    margin-bottom:20px;
-}
+  .col-md-3 {
+    margin-bottom: 20px;
+  }
 
-.each-item
-{
-    position:relative;
-    overflow:hidden;
-}
+  .each-item {
+    position: relative;
+    overflow: hidden;
+  }
 
-.each-item:hover .cap2, .each-item:hover .cap1
-{
-    left:0px;
-}
+  .each-item:hover .cap2,
+  .each-item:hover .cap1 {
+    left: 0px;
+  }
 
-.cap1
-{
-    position:absolute;
-    width:100%;
-    height:70%;
-    background:rgba(255, 255, 255, 0.5);
-    top:0px;
-    left:-100%;
-    padding:10px;
-    
+  .cap1 {
+    position: absolute;
+    width: 100%;
+    height: 70%;
+    background: rgba(255, 255, 255, 0.5);
+    top: 0px;
+    left: -100%;
+    padding: 10px;
+
     transition: all .5s;
-}
+  }
 
-.cap2
-{
-    position:absolute;
-    width:100%;
-    height:30%;
-    background:rgba(0, 178, 255, 0.5);
-    bottom:0px;
-    left:100%;
-    padding:10px;
-    
+  .cap2 {
+    position: absolute;
+    width: 100%;
+    height: 30%;
+    background: rgba(0, 178, 255, 0.5);
+    bottom: 0px;
+    left: 100%;
+    padding: 10px;
+
     transition: all .5s;
-}
+  }
 </style>
 
 
 
 <script>
- filterSelection("all")
-function filterSelection(c) {
-  var x, i;
-  x = document.getElementsByClassName("filterDiv");
-  if (c == "all") c = "";
-  // Add the "show" class (display:block) to the filtered elements, and remove the "show" class from the elements that are not selected
-  for (i = 0; i < x.length; i++) {
-    w3RemoveClass(x[i], "show");
-    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
-  }
-}
+  filterSelection("all")
 
-// Show filtered elements
-function w3AddClass(element, name) {
-  var i, arr1, arr2;
-  arr1 = element.className.split(" ");
-  arr2 = name.split(" ");
-  for (i = 0; i < arr2.length; i++) {
-    if (arr1.indexOf(arr2[i]) == -1) {
-      element.className += " " + arr2[i];
+  function filterSelection(c) {
+    var x, i;
+    x = document.getElementsByClassName("filterDiv");
+    if (c == "all") c = "";
+    // Add the "show" class (display:block) to the filtered elements, and remove the "show" class from the elements that are not selected
+    for (i = 0; i < x.length; i++) {
+      w3RemoveClass(x[i], "show");
+      if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
     }
   }
-}
 
-// Hide elements that are not selected
-function w3RemoveClass(element, name) {
-  var i, arr1, arr2;
-  arr1 = element.className.split(" ");
-  arr2 = name.split(" ");
-  for (i = 0; i < arr2.length; i++) {
-    while (arr1.indexOf(arr2[i]) > -1) {
-      arr1.splice(arr1.indexOf(arr2[i]), 1);
+  // Show filtered elements
+  function w3AddClass(element, name) {
+    var i, arr1, arr2;
+    arr1 = element.className.split(" ");
+    arr2 = name.split(" ");
+    for (i = 0; i < arr2.length; i++) {
+      if (arr1.indexOf(arr2[i]) == -1) {
+        element.className += " " + arr2[i];
+      }
     }
   }
-  element.className = arr1.join(" ");
-}
 
-// Add active class to the current control button (highlight it)
-var btnContainer = document.getElementById("myBtnContainer");
-var btns = btnContainer.getElementsByClassName("btn");
-for (var i = 0; i < btns.length; i++) {
-  btns[i].addEventListener("click", function() {
-    var current = document.getElementsByClassName("active");
-    current[0].className = current[0].className.replace(" active", "");
-    this.className += " active";
-  });
-}
+  // Hide elements that are not selected
+  function w3RemoveClass(element, name) {
+    var i, arr1, arr2;
+    arr1 = element.className.split(" ");
+    arr2 = name.split(" ");
+    for (i = 0; i < arr2.length; i++) {
+      while (arr1.indexOf(arr2[i]) > -1) {
+        arr1.splice(arr1.indexOf(arr2[i]), 1);
+      }
+    }
+    element.className = arr1.join(" ");
+  }
+
+  // Add active class to the current control button (highlight it)
+  var btnContainer = document.getElementById("myBtnContainer");
+  var btns = btnContainer.getElementsByClassName("btn");
+  for (var i = 0; i < btns.length; i++) {
+    btns[i].addEventListener("click", function() {
+      var current = document.getElementsByClassName("active");
+      current[0].className = current[0].className.replace(" active", "");
+      this.className += " active";
+    });
+  }
 
 
-$(document).ready(function(){
+  $(document).ready(function() {
 
-$(".filter-button").click(function(){
-    var value = $(this).attr('data-filter');
-    
-    if(value == "all")
-    {
+    $(".btn").click(function() {
+      var value = $(this).attr('data-filter');
+
+      if (value == "all") {
         //$('.filter').removeClass('hidden');
         $('.filter').show('1000');
-    }
-    else
-    {
-//            $('.filter[filter-item="'+value+'"]').removeClass('hidden');
-//            $(".filter").not('.filter[filter-item="'+value+'"]').addClass('hidden');
-        $(".filter").not('.'+value).hide('3000');
-        $('.filter').filter('.'+value).show('3000');
-        
-    }
-});
+      } else {
+        //            $('.filter[filter-item="'+value+'"]').removeClass('hidden');
+        //            $(".filter").not('.filter[filter-item="'+value+'"]').addClass('hidden');
+        $(".filter").not('.' + value).hide('3000');
+        $('.filter').filter('.' + value).show('3000');
 
-});
+      }
+    });
+
+  });
 </script>
