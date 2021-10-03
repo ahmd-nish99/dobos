@@ -81,8 +81,8 @@ Recyclable, Re - useable, Bio Degradeable, Gas - Safe Pot
 
     <div class="col-sm-3 square square-transition sqrbox mx-2 my-2 " data-aos="zoom-in" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
       <img src="assets\images\quality.png" class="d-block w-25 mx-auto" alt="...">
-      <h2 class="brushfont">Heading</h2>
-      <p>Donec sed odio dui. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+      <h2 class="brushfont">Traditional Packaging</h2>
+      <p>Methods And Materials Contribute To Global Warming And Other Environmental.Issues!</p>
 
     </div>
   </div>
@@ -140,7 +140,7 @@ Recyclable, Re - useable, Bio Degradeable, Gas - Safe Pot
 
 
     <div class="col-md-3 filterDiv bpots">
-      <div class="cardmenu">
+      <div class="cardmenu" style="">
         <img class="card-img-top" src="assets/images/yelllobiriyani.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
           <h4>Biriyani Pots </h4>
@@ -283,6 +283,47 @@ Recyclable, Re - useable, Bio Degradeable, Gas - Safe Pot
     </div>
   </div>
 </div>
+
+
+<!------------------------------------------------about us starts here ------------------------------------------------------------------>
+<div class="container ">
+
+<div class=" text-center heading-section ftco-animate">
+    <p class=" brushfont">About Us</p>
+  </div>
+<div class="row">
+  <div class="col-lg-4">
+    <img src="assets/images/longb.jpg" alt="">
+  </div>
+  
+
+  <div class="col-lg-7">
+    <h1>Bobos Biriyani</h1>
+    <h2>
+                Believe That Doing Good Is
+            Just As Important As Serving
+            Good Food "Dum Cook" Fresh
+            Biryani For Every Individual
+            Order, And Deliver Biryani In
+            That very Handi To The
+            Customer With Care!
+
+</h2>
+    <p>
+                If You Are Among Those Who Find
+            Pleasure In Home Cooked Food, You Are In
+            The Right Place. Preparation OfAll
+            Cuisines With Different Condiments And
+            Finest Ingredients With A Twist Of Sri Lankan Spices Will Give Your Tastebuds A Meal To Remember!
+
+    </p>
+  </div>
+</div>
+
+</div>
+
+
+<!------------------------------------------------about us ends here ------------------------------------------------------------------>
 
 <!------------------------------------------------CUSTOMER REVIEW ------------------------------------------------------------------>
 
