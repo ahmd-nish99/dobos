@@ -98,13 +98,13 @@
           <h6 class="text-uppercase fw-bold mb-4">
             Contact
           </h6>
-          <p><i class="fas fa-home me-3"></i> New York, NY 10012, US</p>
+          <p><i class="fas fa-home me-3"></i> Devananda Road Piliyandala 10300 Piliyandala, Sri Lanka</p>
           <p>
             <i class="fas fa-envelope me-3"></i>
-            info@example.com
+            info@bobosbiriyanipot.lk
           </p>
-          <p><i class="fas fa-phone me-3"></i> + 01 234 567 88</p>
-          <p><i class="fas fa-print me-3"></i> + 01 234 567 89</p>
+          <p><i class="fas fa-phone me-3"></i>+94 77 715 4945</p>
+          <!-- <p><i class="fas fa-print me-3"></i> + 01 234 567 89</p> -->
         </div>
         <!-- Grid column -->
       </div>
