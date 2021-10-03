@@ -15,6 +15,9 @@
         <a class="nav-link" href="#menu">Menu</a>
       </li>
       <li class="nav-item">
+        <a class="nav-link" href="#abt">About Us</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link " href="#contact">Contacts</a>
       </li>
     </ul>

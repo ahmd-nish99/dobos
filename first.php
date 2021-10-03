@@ -140,7 +140,7 @@ Recyclable, Re - useable, Bio Degradeable, Gas - Safe Pot
 
 
     <div class="col-md-3 filterDiv bpots">
-      <div class="cardmenu" style="">
+      <div class="cardmenu">
         <img class="card-img-top" src="assets/images/yelllobiriyani.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
           <h4>Biriyani Pots </h4>
@@ -286,18 +286,19 @@ Recyclable, Re - useable, Bio Degradeable, Gas - Safe Pot
 
 
 <!------------------------------------------------about us starts here ------------------------------------------------------------------>
-<div class="container ">
+<!-- <div class="container ">
 
 <div class=" text-center heading-section ftco-animate">
     <p class=" brushfont">About Us</p>
   </div>
+  
 <div class="row">
   <div class="col-lg-4">
-    <img src="assets/images/longb.jpg" alt="">
+    <img src="assets/images/longb.jpg" alt=""/>
   </div>
   
 
-  <div class="col-lg-7">
+  <div class="col-lg-8">
     <h1>Bobos Biriyani</h1>
     <h2>
                 Believe That Doing Good Is
@@ -320,9 +321,40 @@ Recyclable, Re - useable, Bio Degradeable, Gas - Safe Pot
   </div>
 </div>
 
+</div> -->
+
+<div class="container  px-4" id="abt">
+  
+<div class=" text-center heading-section ftco-animate">
+    <p class=" brushfont">About Us</p>
+  </div>
+  <div class="row gx-5">
+    <div class="col">
+     <div class="p-3  ">  <img src="assets/images/longb.jpg" alt=""/></div>
+    </div>
+    <div class="col">
+      <div class="p-3 ">    <h1>Bobos Biriyani</h1>
+    <h2>
+                Believe That Doing Good Is
+            Just As Important As Serving
+            Good Food "Dum Cook" Fresh
+            Biryani For Every Individual
+            Order, And Deliver Biryani In
+            That very Handi To The
+            Customer With Care!
+
+</h2>
+    <p>
+                If You Are Among Those Who Find
+            Pleasure In Home Cooked Food, You Are In
+            The Right Place. Preparation OfAll
+            Cuisines With Different Condiments And
+            Finest Ingredients With A Twist Of Sri Lankan Spices Will Give Your Tastebuds A Meal To Remember!
+
+    </p></div>
+    </div>
+  </div>
 </div>
-
-
 <!------------------------------------------------about us ends here ------------------------------------------------------------------>
 
 <!------------------------------------------------CUSTOMER REVIEW ------------------------------------------------------------------>
@@ -529,13 +561,16 @@ Recyclable, Re - useable, Bio Degradeable, Gas - Safe Pot
 
 <!----------------------------------contact us ------------------------------------------------------------------------------------->
 
-<div class="container-fluid" style="background-color: #000;">
-  <div class="cswrapper " id="contact">
-    <div class="csoverlay">
-      <div class="row d-flex justify-content-center align-items-center">
+<div class="container-fluid " id="contact" style="background-color: #000;">
+  <div class="cswrapper " >
+    <div class="csoverlay ">
+      <div class="row d-flex justify-content-center align-items-center ">
         <div class="col-md-9">
           <div class="contact-us text-center ">
             <p class=" brushfont">Contact Us</p>
+
+
+            </div>
             <p class="mb-5">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
 
 
@@ -583,14 +618,13 @@ Recyclable, Re - useable, Bio Degradeable, Gas - Safe Pot
         </div>
       </div>
     </div>
+    <br>
   </div>
-</div>
+
 
 
 <!--  -->
-<?php
-include_once "footer.php";
-?>
+
 <style>
   .containermenue {
 
@@ -663,7 +697,7 @@ include_once "footer.php";
   }
 
   .csoverlay {
-    height: 100vh;
+    height: auto;
     background: black;
     width: 100%;
 
@@ -787,7 +821,9 @@ include_once "footer.php";
   }
 </style>
 
-
+<?php
+include_once "footer.php";
+?>
 
 <script>
   filterSelection("all")
