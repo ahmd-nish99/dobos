@@ -180,8 +180,8 @@ include_once "nav.php";
       <div class="cardmenu">
         <img class="card-img-top" src="assets/images/box.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4> Personal Biriyani Lunch Pack </h4>
-          <p class="card-text"> Bobo'sChicken Dum Biriyani Lunch Pack</p>
+          <h4> Personal Lunch Pack </h4>
+          <p class="card-text"> Bobo's Chicken Dum Biriyani <br> Lunch Pack</p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
@@ -192,8 +192,8 @@ include_once "nav.php";
       <div class="cardmenu">
         <img class="card-img-top" src="assets/images/boxmilkshakoe.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4> Personal Biriyani Lunch Pack Combo </h4>
-          <p class="card-text">Bobos Chicken Dum Biriyani Lunch Pack With A Bottle Of Almond Milk With Saffron 200ml</p>
+          <h4> Personal Biriyani Lunch Combo </h4>
+          <p class="card-text">Bobos Chicken Dum Biriyani Pack With A Bottle Of Almond Milk 200ml</p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
@@ -224,7 +224,7 @@ include_once "nav.php";
         <div class="card-body-menu ">
           <h4>  Personal Biriyani Lunch Pack Combo </h4>
           <p class="card-text">Bobos Chicken Dum Biriyani Lunch Pack
-            With A Can Of Redbull 250ml
+            With a Can Of Redbull 250ml
           </p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
