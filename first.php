@@ -117,7 +117,7 @@ include_once "nav.php";
         <img class="card-img-top" src="assets/images/biriyani.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
           <h4>Veg Biriyani Pot</h4>
-          <p class="card-text">Served With Premium Quality Long Grain Fluffy Basmati Rice, Cucumber Onion Raita, Mintsambal , Bobo's Spicy Gravy, Fried Boiled Eggs & Crèam Caramel</p>
+          <p class="card-text">Serves ( 6-7 person), Served With Premium Quality Long Grain Fluffy Basmati Rice, Cucumber Onion Raita, Mintsambal , Bobo's Spicy Gravy, Fried Boiled Eggs & Crèam Caramel</p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
@@ -130,7 +130,7 @@ include_once "nav.php";
         <img class="card-img-top" src="assets/images/biriyani_red.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
           <h4>Mutton Biriyani Pot </h4>
-          <p class="card-text">Served With Premium Quality Long Grain Fluffy Basmati Rice, Cucumber Onion Raita, Mintsambal , Bobo's Spicy Gravy, Fried Boiled Eggs & Crèam Caramel</p>
+          <p class="card-text">Serves ( 6-7 person), Served With Premium Quality Long Grain Fluffy Basmati Rice, Cucumber Onion Raita, Mintsambal , Bobo's Spicy Gravy, Fried Boiled Eggs & Crèam Caramel</p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
@@ -143,7 +143,7 @@ include_once "nav.php";
         <img class="card-img-top" src="assets/images/yelllobiriyani.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
           <h4>Chicken Biriyani Pot </h4>
-          <p class="card-text">Served With Premium Quality Long Grain Fluffy Basmati Rice, Cucumber Onion Raita, Mintsambal , Bobo's Spicy Gravy, Fried Boiled Eggs & Crèam Caramel</p>
+          <p class="card-text">Serves ( 6-7 person), Served With Premium Quality Long Grain Fluffy Basmati Rice, Cucumber Onion Raita, Mintsambal , Bobo's Spicy Gravy, Fried Boiled Eggs & Crèam Caramel</p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
