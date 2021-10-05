@@ -116,8 +116,8 @@ include_once "nav.php";
       <div class="cardmenu">
         <img class="card-img-top" src="assets/images/biriyani.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4>Biriyani Pot</h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <h4>Veg Biriyani Pot</h4>
+          <p class="card-text">Served With Premium Quality Long Grain Fluffy Basmati Rice, Cucumber Onion Raita, Mintsambal , Bobo's Spicy Gravy, Fried Boiled Eggs & Crèam Caramel</p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
@@ -129,8 +129,8 @@ include_once "nav.php";
       <div class="cardmenu">
         <img class="card-img-top" src="assets/images/biriyani_red.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4>Biriyani Pots </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <h4>Mutton Biriyani Pot </h4>
+          <p class="card-text">Served With Premium Quality Long Grain Fluffy Basmati Rice, Cucumber Onion Raita, Mintsambal , Bobo's Spicy Gravy, Fried Boiled Eggs & Crèam Caramel</p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
@@ -142,8 +142,21 @@ include_once "nav.php";
       <div class="cardmenu">
         <img class="card-img-top" src="assets/images/yelllobiriyani.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4>Biriyani Pots </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <h4>Chicken Biriyani Pot </h4>
+          <p class="card-text">Served With Premium Quality Long Grain Fluffy Basmati Rice, Cucumber Onion Raita, Mintsambal , Bobo's Spicy Gravy, Fried Boiled Eggs & Crèam Caramel</p>
+
+          <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
+        </div>
+      </div>
+    </div>
+
+<!-- 2 pot -->
+    <div class="col-md-3 filterDiv bpots">
+      <div class="cardmenu">  
+        <img class="card-img-top" src="assets/images/yellowboriyani2.jpeg" alt="Card image cap">
+        <div class="card-body-menu ">
+          <h4>2 Pot Chicken Biriyani </h4>
+          <p class="card-text">2 Pot Biriyani Serves ( 2-3 person), Served With Premium Quality Long Grain Fluffy Basmati Rice, Cucumber Onion Raita, Mintsambal , Bobo's Spicy Gravy, Fried Boiled Eggs & Crèam Caramel</p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
@@ -153,21 +166,21 @@ include_once "nav.php";
 
     <div class="col-md-3 filterDiv bpots">
       <div class="cardmenu">
-        <img class="card-img-top" src="assets/images/yellowboriyani2.jpeg" alt="Card image cap">
+        <img class="card-img-top" src="assets/images/mullubiriyani.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4>Biriyani Pots </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <h4>2 Pot Mutton Biriyani </h4>
+          <p class="card-text">2 Pot Biriyani Serves ( 2-3 person), Served With Premium Quality Long Grain Fluffy Basmati Rice, Cucumber Onion Raita, Mintsambal , Bobo's Spicy Gravy, Fried Boiled Eggs & Crèam Caramel</p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
       </div>
     </div>
-
+<!-- ==========================Lunch Pack -->
     <div class="col-md-3 filterDiv  lpack">
       <div class="cardmenu">
         <img class="card-img-top" src="assets/images/box.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4> Chicken Dum Biriyani Lunch Pack </h4>
+          <h4> Personal Biriyani Lunch Pack </h4>
           <p class="card-text"> Bobo'sChicken Dum Biriyani Lunch Pack</p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
@@ -179,7 +192,7 @@ include_once "nav.php";
       <div class="cardmenu">
         <img class="card-img-top" src="assets/images/boxmilkshakoe.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4> Chicken Dum Biriyani Lunch Pack With A Bottle Of Almond Milk With Saffron </h4>
+          <h4> Personal Biriyani Lunch Pack Combo </h4>
           <p class="card-text">Bobos Chicken Dum Biriyani Lunch Pack With A Bottle Of Almond Milk With Saffron 200ml</p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
@@ -193,8 +206,7 @@ include_once "nav.php";
       <div class="cardmenu">
         <img class="card-img-top" src="assets/images/boxredbott.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4> Chicken Dum Biriyani Lunch Pack
-            With A Bottle Of Rose Mojito </h4>
+          <h4>  Personal Biriyani Lunch Pack Combo </h4>
           <p class="card-text">Bobos Chicken Dum Biriyani Lunch Pack
             With A Bottle Of Rose Mojito 200ml
           </p>
@@ -210,7 +222,7 @@ include_once "nav.php";
       <div class="cardmenu">
         <img class="card-img-top" src="assets/images/boxredbull.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4> Chicken Dum Biriyani Lunch Pack With A Can Of Redbull </h4>
+          <h4>  Personal Biriyani Lunch Pack Combo </h4>
           <p class="card-text">Bobos Chicken Dum Biriyani Lunch Pack
             With A Can Of Redbull 250ml
           </p>
@@ -224,8 +236,8 @@ include_once "nav.php";
       <div class="cardmenu">
         <img class="card-img-top" src="assets/images/white.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4> Bevarages </h4>
-          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <h4> Muttom Msala Pot With Ghee Rice </h4>
+          <p class="card-text">You Can Enjoy Our Mutton Masala Pot With a Side Of Fluffy Long-Grain Basmathi Ghee Rice</p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
@@ -322,7 +334,7 @@ include_once "nav.php";
 
 </div> -->
 
-<div id="about" class="about-main pad-top-100 pad-bottom-100">
+<div id="abt" class="about-main pad-top-100 pad-bottom-100" >
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
