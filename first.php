@@ -60,20 +60,19 @@ include_once "nav.php";
   <!-- Example row of fjgnjfcolumns -->
   <div class="row square-wrapper justify-content-center">
 
+  <div class="col-sm-3 square square-transition sqrbox mx-2 my-2 " data-aos="zoom-in" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
+      <img src="assets\images\quality.png" class="d-block w-25 mx-auto" alt="...">
+      <h2 class="brushfont">Premium Quality</h2>
+      <p>We Stand Behind The Quality, Not The Quantity. Using Premium Quality Meat , Finest Spices And  fresh ingredients To Make Our Biriyani Special!</p>
+
+    </div>
+
     <div class="col-sm-3 square square-transition sqrbox mx-2 my-2" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
       <img src="assets\images\fresh.png" class="d-block w-25 mx-auto" alt="...">
-      <h2 class="brushfont">Heading</h2>
-      <p>Donec id elit non mi porta mollis euismod. Donec sed odio dui. </p>
+      <h2 class="brushfont">Safe Delivery</h2>
+      <p>With our direct delivery services bringing your food safe and secure to your door step.</p>
     </div>
-
-
-    <div class="col-sm-3 square square-transition sqrbox mx-2 my-2 " data-aos="zoom-in" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
-      <img src="assets\images\quality.png" class="d-block w-25 mx-auto" alt="...">
-      <h2 class="brushfont">Traditional Packaging</h2>
-      <p>Methods And Materials Contribute To Global Warming And Other Environmental.Issues!</p>
-
-    </div>
-
+ 
 
     <div class="col-sm-3 square square-transition sqrbox mx-2 my-2" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
       <img src="assets\images\eco-logo.png" class="d-block w-25 mx-auto" alt="...">
@@ -192,7 +191,7 @@ include_once "nav.php";
       <div class="cardmenu">
         <img class="card-img-top" src="assets/images/boxmilkshakoe.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4> Personal Biriyani Lunch Combo </h4>
+          <h4> Personal Lunch Combo </h4>
           <p class="card-text">Bobos Chicken Dum Biriyani Pack With A Bottle Of Almond Milk 200ml</p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
@@ -206,7 +205,7 @@ include_once "nav.php";
       <div class="cardmenu">
         <img class="card-img-top" src="assets/images/boxredbott.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4>  Personal Biriyani Lunch Pack Combo </h4>
+          <h4>  Personal Lunch Combo </h4>
           <p class="card-text">Bobos Chicken Dum Biriyani Lunch Pack
             With A Bottle Of Rose Mojito 200ml
           </p>
@@ -222,7 +221,7 @@ include_once "nav.php";
       <div class="cardmenu">
         <img class="card-img-top" src="assets/images/boxredbull.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4>  Personal Biriyani Lunch Pack Combo </h4>
+          <h4>  Personal Lunch Combo </h4>
           <p class="card-text">Bobos Chicken Dum Biriyani Lunch Pack
             With a Can Of Redbull 250ml
           </p>
@@ -236,7 +235,7 @@ include_once "nav.php";
       <div class="cardmenu">
         <img class="card-img-top" src="assets/images/white.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4> Muttom Msala Pot With Ghee Rice </h4>
+          <h4> Muttom Masala Pot With Ghee Rice </h4>
           <p class="card-text">You Can Enjoy Our Mutton Masala Pot With a Side Of Fluffy Long-Grain Basmathi Ghee Rice</p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
@@ -268,7 +267,6 @@ include_once "nav.php";
           <h4> ALMOND MILK WITH SAFFRON </h4>
           <p class="card-text">BOBO'S ALMOND MILK WITH SAFFRON
             Extremely Nutritious And Healthy , Loaded With Goodness Of Almonds And Saffron!
-            It Helps To Builds Immunity, Make Bones Stronger And Gives You Enough Nutrition And Energy To Perform You All Day!
           </p>
 
           <a href="#" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
