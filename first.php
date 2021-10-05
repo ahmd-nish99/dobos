@@ -60,18 +60,6 @@ include_once "nav.php";
   <!-- Example row of fjgnjfcolumns -->
   <div class="row square-wrapper justify-content-center">
 
-
-    <div class="col-sm-3 square square-transition sqrbox mx-2 my-2" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
-      <img src="assets\images\eco-logo.png" class="d-block w-25 mx-auto" alt="...">
-      <h2 class="brushfont"> ECO Friendly</h2>
-      <p>We Love Our Mother Land! All Our
-Packaging Is Plastic -Free , Compostable ,
-Recyclable, Re - useable, Bio Degradeable, Gas - Safe Pot
-</p>
-    </div>
-
-
-
     <div class="col-sm-3 square square-transition sqrbox mx-2 my-2" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
       <img src="assets\images\fresh.png" class="d-block w-25 mx-auto" alt="...">
       <h2 class="brushfont">Heading</h2>
@@ -84,6 +72,17 @@ Recyclable, Re - useable, Bio Degradeable, Gas - Safe Pot
       <h2 class="brushfont">Traditional Packaging</h2>
       <p>Methods And Materials Contribute To Global Warming And Other Environmental.Issues!</p>
 
+    </div>
+
+
+    <div class="col-sm-3 square square-transition sqrbox mx-2 my-2" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
+      <img src="assets\images\eco-logo.png" class="d-block w-25 mx-auto" alt="...">
+      <h2 class="brushfont"> ECO Friendly</h2>
+      <h5>We Love Our Mother Land! </h5>
+      <p>All Our
+      Packaging Is Plastic -Free , Compostable ,
+      Recyclable, Re - useable, Bio Degradeable, Gas - Safe Pot
+      </p>
     </div>
   </div>
 
@@ -329,7 +328,7 @@ Recyclable, Re - useable, Bio Degradeable, Gas - Safe Pot
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="wow fadeIn" data-wow-duration="1s" data-wow-delay="0.1s">
                         <h2 class="brushfont"> About Us </h2>
-                        <h3>IT STARTED, QUITE SIMPLY, LIKE THIS...</h3>
+                        <h3 style="color: #eee;">IT STARTED, QUITE SIMPLY, LIKE THIS...</h3>
                         <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm incididunt ut labore et dolore magna aliqua. Ut enim ad minim venia, nostrud exercitation ullamco. </p>
 
                         <p> Aenean commodo ligula eget dolor aenean massa. Cum sociis nat penatibu set magnis dis parturient montes, nascetur ridiculus mus. quam felisorat, ultricies nec, Aenean commodo ligula eget dolor penatibu set magnis is parturient montes, nascetur ridiculus mus. quam felisorat, ultricies nec, pellentesque eu, pretium quis, sem. quat massa quis enim. Donec vitae sapien ut libero venenatis fauci Nullam quis ante. Etiam sit amet rci eget eros. </p>
@@ -352,6 +351,42 @@ Recyclable, Re - useable, Bio Degradeable, Gas - Safe Pot
         <!-- end container -->
     </div>
 <!------------------------------------------------about us ends here ------------------------------------------------------------------>
+<section id="about" class="parallax-section">
+     <div class="container">
+          <div class="row">
+
+               <div class="col-md-4 col-sm-8 review-images my-3 justify-content-center">
+               <div class="wow fadeInUp" data-wow-delay="0.4s">
+                         <h4 style="color: #fff;">Review</h4>
+                         <p class="brushfont">By : YAMU.lk</p>
+                         <img src="assets/images/review.jpeg" class="" data-wow-delay="0.2s" alt="about image">
+
+                    </div>
+                    
+               </div>
+
+               <div class="col-md-8 col-sm-12 align-middle my-5">
+                    <div class="about-thumb my-5 ">
+                         <div class="wow fadeInUp section-title" data-wow-delay="0.6s">
+                              <h3 class="brushfont">BOBO'S</h3>
+                              <h2 style="color: #eee;">Some excellent biriyani made by a home cook.</h2>
+                         </div>
+                         <div class="wow fadeInUp" data-wow-delay="0.8s">
+                              <p>If you're having people over and don't want to hassle in the kitchen, or just having a family meal, we highly recommend ordering from Bobo's. They make some extremely good biriyanis that will leave you totally full. Furthermore, they keep everything highly eco-friendly; from cutlery to packaging, which is another plus point.</p>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star checked"></span>
+                                <span class="fa fa-star unchecked"></span>
+                              </div>
+                              <a href="https://www.yamu.lk/place/bobos/review-394048#full" style="color: #deb150;">Reaad full story</a>
+
+                    </div>
+               </div>
+
+          </div>
+     </div>
+</section>
 
 <!------------------------------------------------CUSTOMER REVIEW ------------------------------------------------------------------>
 

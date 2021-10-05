@@ -165,9 +165,62 @@ a.theme-btn:hover {
     border-radius: 999px;
 	max-width: 100%;
 }
-
+.review-images img {
+    border: 10px solid #deb150;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-border-radius: 999px;
+    -moz-border-radius: 999px;
+    border-radius: 999px;
+	max-width: 80%;
+}
+.checked{
+    color: #deb150;
+}
+.unchecked{
+    color: #d4d4d4;
+}
 .about-inset {
     position: absolute;
     top: 0;
     right: 0;
 }
+
+
+
+/*---------------------------------------
+  About section              
+-----------------------------------------*/
+
+#about {
+    padding-top: 100px;
+  }
+  
+  #about .col-md-4 img {
+    border-radius: 500px;
+    margin-bottom: 28px;
+  }
+  
+  #about .col-md-4 a {
+    background: #000000;
+    border-radius: 1000px;
+    color: #ffffff;
+    padding: 6px 12px;
+    display: inline-block;
+    margin-bottom: 40px;
+    justify-content: center;
+  }
+  
+  #about .col-md-4 a:hover {
+    background: #000000;
+    color: #ffffff;
+  }
+  
+  #about .about-thumb {
+    background: #000000;
+    border-radius: 5px;
+    padding: 42px 32px;
+  }
+  
+  
