@@ -81,7 +81,7 @@
   <!-- Copyright -->
   <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
     © 2021 Copyright:
-    <a class="text-reset fw-bold" href="https://mdbootstrap.com/">Devoloped By Shadzil - The social media agency</a>
+    <a class="text-reset fw-bold" href="https://www.instagram.com/shadzil_digi/">Devoloped By Shadzil - The social media agency</a>
   </div>
   <!-- Copyright -->
 </footer>

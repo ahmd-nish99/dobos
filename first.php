@@ -340,12 +340,8 @@ include_once "nav.php";
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="wow fadeIn" data-wow-duration="1s" data-wow-delay="0.1s">
                         <h2 class="brushfont"> About Us </h2>
-                        <h3 style="color: #eee;">IT STARTED, QUITE SIMPLY, LIKE THIS...</h3>
-                        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm incididunt ut labore et dolore magna aliqua. Ut enim ad minim venia, nostrud exercitation ullamco. </p>
-
-                        <p> Aenean commodo ligula eget dolor aenean massa. Cum sociis nat penatibu set magnis dis parturient montes, nascetur ridiculus mus. quam felisorat, ultricies nec, Aenean commodo ligula eget dolor penatibu set magnis is parturient montes, nascetur ridiculus mus. quam felisorat, ultricies nec, pellentesque eu, pretium quis, sem. quat massa quis enim. Donec vitae sapien ut libero venenatis fauci Nullam quis ante. Etiam sit amet rci eget eros. </p>
-
-                        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm incididunt ut labore et dolore magna aliqua. Ut enim ad minim venia, nostrud exercitation ullamco. </p>
+                        <h3> <p> If You Are Among Those Who Find Pleasure In Home Cooked Food, You Are In The Right Place. Preparation Of All Cuisines With Different Condiments And Finest Ingredients With A Twist Of Sri Lankan Spices Will Give Your Tastebuds A Meal To Remember </p></h3>
+                       
                     </div>
                 </div>
                 <!-- end col -->
@@ -431,11 +427,11 @@ include_once "nav.php";
                   <!-- CUSTOM BLOCKQUOTE -->
                   <blockquote class="blockquote blockquote-custom  p-5 shadow rounded" style="background-color: #deb150;   outline: 1px solid black;
     outline-offset: -10px;">
-                    <div class=""><i class="fa fa-quote-left text-white"></i></div>
-                    <p class="mb-0 mt-2 font-italic">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo <a href="#" class="text-info"></a>."</p>
-                    <footer class="blockquote-footer pt-4 mt-4 border-top">Someone famous in
+                    <!-- <div class=""><i class="fa fa-quote-left text-white"></i></div> -->
+                    <p class="mb-0 mt-2 font-italic"> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frochaniw%2Fposts%2F10225991164034426&show_text=true&width=500" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></p>
+                    <!-- <footer class="blockquote-footer pt-4 mt-4 border-top">Someone famous in
                       <cite title="Source Title">Source Title</cite>
-                    </footer>
+                    </footer> -->
                   </blockquote><!-- END -->
 
                 </div>
@@ -458,11 +454,11 @@ include_once "nav.php";
                   <!-- CUSTOM BLOCKQUOTE -->
                   <blockquote class="blockquote blockquote-custom  p-5 shadow rounded" style="background-color: #deb150;   outline: 1px solid black;
     outline-offset: -10px;">
-                    <div class=""><i class="fa fa-quote-left text-white"></i></div>
-                    <p class="mb-0 mt-2 font-italic">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo <a href="#" class="text-info"></a>."</p>
-                    <footer class="blockquote-footer pt-4 mt-4 border-top">Someone famous in
+                    <!-- <div class=""><i class="fa fa-quote-left text-white"></i></div> -->
+                    <p class="mb-0 mt-2 font-italic"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjeff.rajasinghe%2Fposts%2F10158209936911134&show_text=true&width=500" width="500" height="268" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></p>
+                    <!-- <footer class="blockquote-footer pt-4 mt-4 border-top">Someone famous in
                       <cite title="Source Title">Source Title</cite>
-                    </footer>
+                    </footer> -->
                   </blockquote><!-- END -->
 
                 </div>
@@ -489,11 +485,11 @@ include_once "nav.php";
                   <!-- CUSTOM BLOCKQUOTE -->
                   <blockquote class="blockquote blockquote-custom  p-5 shadow rounded" style="background-color: #deb150;   outline: 1px solid black;
     outline-offset: -10px;">
-                    <div class=""><i class="fa fa-quote-left text-white"></i></div>
-                    <p class="mb-0 mt-2 font-italic">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo <a href="#" class="text-info"></a>."</p>
-                    <footer class="blockquote-footer pt-4 mt-4 border-top">Someone famous in
+                    <!-- <div class=""><i class="fa fa-quote-left text-white"></i></div> -->
+                    <p class="mb-0 mt-2 font-italic"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnilanthi.alahakoon.18%2Fposts%2F243715680625050&show_text=true&width=500" width="500" height="188" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></p>
+                    <!-- <footer class="blockquote-footer pt-4 mt-4 border-top">Someone famous in
                       <cite title="Source Title">Source Title</cite>
-                    </footer>
+                    </footer> -->
                   </blockquote><!-- END -->
 
                 </div>
@@ -516,11 +512,11 @@ include_once "nav.php";
                   <!-- CUSTOM BLOCKQUOTE -->
                   <blockquote class="blockquote blockquote-custom  p-5 shadow rounded" style="background-color: #deb150;   outline: 1px solid black;
     outline-offset: -10px;">
-                    <div class=""><i class="fa fa-quote-left text-white"></i></div>
-                    <p class="mb-0 mt-2 font-italic">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo <a href="#" class="text-info"></a>."</p>
-                    <footer class="blockquote-footer pt-4 mt-4 border-top">Someone famous in
+                    <!-- <div class=""><i class="fa fa-quote-left text-white"></i></div> -->
+                    <p class="mb-0 mt-2 font-italic"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpradeep.r.perera%2Fposts%2F3762520813790704&show_text=true&width=500" width="500" height="185" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></p>
+                    <!-- <footer class="blockquote-footer pt-4 mt-4 border-top">Someone famous in
                       <cite title="Source Title">Source Title</cite>
-                    </footer>
+                    </footer> -->
                   </blockquote><!-- END -->
 
                 </div>
@@ -546,11 +542,11 @@ include_once "nav.php";
                   <!-- CUSTOM BLOCKQUOTE -->
                   <blockquote class="blockquote blockquote-custom  p-5 shadow rounded" style="background-color: #deb150;   outline: 1px solid black;
     outline-offset: -10px;">
-                    <div class=""><i class="fa fa-quote-left text-white"></i></div>
-                    <p class="mb-0 mt-2 font-italic">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo <a href="#" class="text-info"></a>."</p>
-                    <footer class="blockquote-footer pt-4 mt-4 border-top">Someone famous in
+                    <!-- <div class=""><i class="fa fa-quote-left text-white"></i></div> -->
+                    <p class="mb-0 mt-2 font-italic"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTracyFel.Bunchi%2Fposts%2F10221789146829516&show_text=true&width=500" width="500" height="465" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></p>
+                    <!-- <footer class="blockquote-footer pt-4 mt-4 border-top">Someone famous in
                       <cite title="Source Title">Source Title</cite>
-                    </footer>
+                    </footer> -->
                   </blockquote><!-- END -->
 
                 </div>
@@ -573,11 +569,11 @@ include_once "nav.php";
                   <!-- CUSTOM BLOCKQUOTE -->
                   <blockquote class="blockquote blockquote-custom  p-5 shadow rounded" style="background-color: #deb150;   outline: 1px solid black;
     outline-offset: -10px;">
-                    <div class=""><i class="fa fa-quote-left text-white"></i></div>
-                    <p class="mb-0 mt-2 font-italic">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo <a href="#" class="text-info"></a>."</p>
-                    <footer class="blockquote-footer pt-4 mt-4 border-top">Someone famous in
+                    <!-- <div class=""><i class="fa fa-quote-left text-white"></i></div> -->
+                    <p class="mb-0 mt-2 font-italic"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmarlonfernando777%2Fposts%2F10218660216559458&show_text=true&width=500" width="500" height="301" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></p>
+                    <!-- <footer class="blockquote-footer pt-4 mt-4 border-top">Someone famous in
                       <cite title="Source Title">Source Title</cite>
-                    </footer>
+                    </footer> -->
                   </blockquote><!-- END -->
 
                 </div>
@@ -614,7 +610,7 @@ include_once "nav.php";
 
 
             </div>
-            <p class="mb-5">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+            <!-- <p class="mb-5">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p> -->
 
 
             <div class="row">

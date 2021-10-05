@@ -21,8 +21,8 @@
         <a class="nav-link " href="#contact">Contacts</a>
       </li>
     </ul>
-    <form class="my-2 my-lg-0">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Oder Now</button>
+    <form class="my-2 my-lg-0"> 
+     <a  class="nav-link " href="https://wa.me/+94777154945" target="_blank"  > <button class="btn btn-outline my-2 my-sm-0" type="button">Oder Now</button> </a>
     </form>
   </div>
 </nav>
