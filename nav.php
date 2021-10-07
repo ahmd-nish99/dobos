@@ -25,6 +25,22 @@
      <a  class="nav-link " href="https://wa.me/+94777154945" target="_blank"  > <button class="btn btn-outline my-2 my-sm-0" type="button">Oder Now</button> </a>
 
       </li>
+
+      <li class="nav-item">
+        <a class="nav-link " href="#"></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link " href="#"></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link " href="#"></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link " href="#"></a>
+      </li>
+      <!-- <li class="nav-item">
+        <a class="nav-link " href="#"></a>
+      </li> -->
     </ul>
     
   </div>

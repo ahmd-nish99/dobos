@@ -184,7 +184,7 @@ include_once "nav.php";
       <div class="cardmenu">
         <img class="card-img-top" src="assets/images/white.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4> Muttom Masala Pot With Ghee Rice </h4>
+          <h4> Mutton Masala Pot With Ghee Rice </h4>
           <p class="card-text">You Can Enjoy Our Mutton Masala Pot With a Side Of Fluffy Long-Grain Basmathi Ghee Rice
 
           <p style="opacity: 0;">Bobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's fqwqfqwfqwfqfqf</p>
@@ -224,9 +224,9 @@ include_once "nav.php";
       <div class="cardmenu">
         <img class="card-img-top" src="assets/images/boxredbott.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
-          <h4>  Personal Lunch Combo </h4>
+          <h4>  Personal Lunch Combo  <span style="opacity: 0;">Pot eafqfqfqf</span> </h4>
           <p class="card-text">Bobos Chicken Dum Biriyani Lunch Pack
-            With A Bottle Of Rose Mojito 200ml <p style="opacity: 0;">Bobo's Chicke Chicken Dum BiriyaniBobo's Chicken 's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum Biriyani</p>
+            With A Bottle Of Rose Mojito 200ml <p style="opacity: 0;">Bobo's Chicke Chicken Dum BiriyaniBobo's  's  Dum 's </p>
           </p>
 
           <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
@@ -243,7 +243,7 @@ include_once "nav.php";
           <h4>  Personal Lunch Combo   <span style="opacity: 0;">Pot eafqfqfqf</span></h4>
           <p class="card-text">Bobos Chicken Dum Biriyani Lunch Pack
             With a Can Of Redbull 250ml
-            <span style="opacity: 0;">Pot eafqfqfqf</span>
+            <p style="opacity: 0;">Bobo's Chicke Chicken Dum BiriyaniBobo's Chicken 's Chicken Dum BiriyaniBobo's  </p>
           </p>
 
           <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
@@ -272,6 +272,7 @@ include_once "nav.php";
             Alcoholic Summer Drink Made From
             Natural Rose Petals , Lime , Mint And Basil
             Seeds
+            <p style="opacity: 0;">Bobo's Chicke Chicken Dum BiriyaniBobo's Chicken 's  Dum 's </p>
           </p>
 
           <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
@@ -287,6 +288,7 @@ include_once "nav.php";
           <h4> ALMOND MILK WITH SAFFRON </h4>
           <p class="card-text">
             Extremely Nutritious And Healthy , Loaded With Goodness Of Almonds And Saffron!
+            <p style="opacity: 0;">Bobo's Chicke Chicken Dum BiriyaniBobo's Chicken 's </p>
           </p>
 
           <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
@@ -603,7 +605,7 @@ Served in clay pots, Bobo's</h2>
                   </div>
 
                   <div class="d-flex flex-row align-items-center mt-3"> <span class="icons"><i class="fa fa-envelope-o"></i></span>
-                    <div class="address cstextlft"> <span>Address</span>
+                    <div class="address cstextlft"> <span>E-mail</span>
                       <p>info@bobosbiriyanipot.lk</p>
                     </div>
                   </div>
