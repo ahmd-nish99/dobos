@@ -26,7 +26,7 @@
         <i class="fab fa-instagram"></i>
       </a>
      
-      </a>
+
     </div>
     <!-- Right -->
   </section>
@@ -41,11 +41,10 @@
         <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
           <!-- Content -->
           <h6 class="text-uppercase fw-bold mb-4">
-            <i class="fas fa-birthday-cake me-3"></i>Bobos Biriyani
+          <img src="assets/images/b.png" width="25" alt="Logo"> Bobos Biriyani Pot &reg; &trade;
           </h6>
           <p>
-            Here you can use rows and columns to organize your footer content. Lorem ipsum
-            dolor sit amet, consectetur adipisicing elit.
+          If You Are Among Those Who Find Pleasure In Home Cooked Food, You Are In The Right Place. Preparation Of All Cuisines With Different Condiments And Finest Ingredients With A Twist Of Sri Lankan Spices Will Give Your Tastebuds A Meal To Remember!
           </p>
         </div>
         <!-- Grid column -->
@@ -62,6 +61,8 @@
           <h6 class="text-uppercase fw-bold mb-4">
             Contact
           </h6>
+
+          <p><i >   <img src="assets/images/b.png" width="25" alt="Logo"></i> BOBOS BIRIYANI (PVT)Ltd. </p>
           <p><i class="fas fa-home me-3"></i> Devananda Road Piliyandala 10300 Piliyandala, Sri Lanka</p>
           <p>
             <i class="fas fa-envelope me-3"></i>

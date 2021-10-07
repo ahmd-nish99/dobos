@@ -9,7 +9,7 @@
     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
     
       <li class="nav-item active">
-        <a class="nav-link" href="first.php">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#menu">Menu</a>
@@ -18,11 +18,14 @@
         <a class="nav-link" href="#abt">About Us</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link " href="#contact">Contacts</a>
+        <a class="nav-link " href="#contact">Contact Us</a>
+      </li>
+      <li class="nav-item">
+     
+     <a  class="nav-link " href="https://wa.me/+94777154945" target="_blank"  > <button class="btn btn-outline my-2 my-sm-0" type="button">Oder Now</button> </a>
+
       </li>
     </ul>
-    <form class="my-2 my-lg-0"> 
-     <a  class="nav-link " href="https://wa.me/+94777154945" target="_blank"  > <button class="btn btn-outline my-2 my-sm-0" type="button">Oder Now</button> </a>
-    </form>
+    
   </div>
 </nav>
