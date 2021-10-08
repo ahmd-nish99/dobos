@@ -38,7 +38,7 @@
       <!-- Grid row -->
       <div class="row mt-3">
         <!-- Grid column -->
-        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+        <div class="col-md-4 col-lg-4 col-xl-3 mx-auto mb-4 ">
           <!-- Content -->
           <h6 class="text-uppercase fw-bold mb-4">
           <img src="assets/images/b.png" width="25" alt="Logo"> Bobos Biriyani Pot &reg; &trade;
@@ -50,8 +50,11 @@
         <!-- Grid column -->
 
         <!-- Grid column -->
-        <div class="col-md-5 col-lg-4 col-xl-4 mx-auto mb-4">
-        <img src="assets/images/Untitled design (6).png" width="200" alt="Logo">
+        <div class="col-md-4 col-lg-4 col-xl-4 mb-4 justify-content-end">
+          <div class="mx-5 justify-content-center" style="padding-left: 20px;">
+          <img src="assets/images/Untitled design (6).png" width="200" alt="Logo">
+          </div>
+        
         </div> 
         <!-- Grid column -->
 

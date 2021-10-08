@@ -22,7 +22,7 @@
       </li>
       <li class="nav-item">
      
-     <a  class="nav-link " href="https://wa.me/+94777154945" target="_blank"  > <button class="btn btn-outline my-2 my-sm-0" type="button">Oder Now</button> </a>
+     <a  class="nav-link " href="https://wa.me/+94777154945" target="_blank"  > <button class="btn btn-outline my-2 my-sm-0" type="button">Order Now</button> </a>
 
       </li>
 

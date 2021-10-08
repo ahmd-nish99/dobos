@@ -49,7 +49,7 @@ include_once "nav.php";
 <!-- --------------Why Choose Us---------------------------------------------------------------------------------------------- -->
 
 
-<div class="container-fluid parallax  my-5 text-center px-5 p-3 text-white ">
+<div class="container-fluid parallax  my-5 text-center  text-white ">
 
 
   <div class=" text-center heading-section ftco-animate">
@@ -58,24 +58,24 @@ include_once "nav.php";
 
 
   <!-- Example row of fjgnjfcolumns -->
-  <div class="row square-wrapper justify-content-center">
+  <div class="row square-wrapper justify-content-center mx-4">
 
-  <div class="col-sm-3 square square-transition sqrbox mx-2 my-2 " data-aos="zoom-in" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
-      <img src="assets\images\quality.png" class="d-block w-25 mx-auto" alt="...">
+  <div class="col-sm-3 square square-transition sqrbox  my-2  "  data-aos="zoom-in" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
+      <img src="assets\images\quality.png" class="d-block w-50 mx-auto" alt="...">
       <h2 class="brushfont">Premium Quality</h2>
       <p>We Stand Behind The Quality, Not The Quantity. Using Premium Quality Meat , Finest Spices And  fresh ingredients To Make Our Biriyani Special!</p>
 
     </div>
 
-    <div class="col-sm-3 square square-transition sqrbox mx-2 my-2" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
-      <img src="assets\images\fresh.png" class="d-block w-25 mx-auto" alt="...">
+    <div class="col-sm-3 square square-transition sqrbox  my-2 " data-aos="zoom-in" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
+      <img src="assets\images\fresh.png" class="d-block w-50 mx-auto" alt="...">
       <h2 class="brushfont">Safe Delivery</h2>
       <p>With Our Direct Delivery Services Sringing Your Food Safe And Secure To Your Door Step.</p>
     </div>
  
 
-    <div class="col-sm-3 square square-transition sqrbox mx-2 my-2" data-aos="zoom-in" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
-      <img src="assets\images\eco-logo.png" class="d-block w-25 mx-auto" alt="...">
+    <div class="col-sm-3 square square-transition sqrbox  my-2 " data-aos="zoom-in" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
+      <img src="assets\images\eco-logo.png" class="d-block w-50 mx-auto" alt="...">
       <h2 class="brushfont"> ECO Friendly</h2>
       <h5>We Love Our Mother Land! </h5>
       <p>All Our
@@ -83,6 +83,17 @@ include_once "nav.php";
       Recyclable, Re - useable, Bio Degradeable, Gas - Safe Pot
       </p>
     </div>
+
+    <div class="col-sm-3 square square-transition sqrbox  my-2 " data-aos="zoom-in" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
+      <img src="assets\images\world.png" class="d-block w-50 mx-auto" alt="...">
+      <h2 class="brushfont">Overseas Orders </h2>
+      <p>Feel like sending a biriyani pot for your loved once?
+Now you can easily and safely send a favorite homemade meal to friends, family members 
+What a better way to bring a smile to their face by sending Bobo’s biriyani Pot
+</p>
+
+    </div>
+    
   </div>
 
 
@@ -111,16 +122,18 @@ include_once "nav.php";
 
 
   <div class="row">
-    <div class="col-md-3 filterDiv bpots ">
-      <div class="cardmenu">
+    <div class="col-md-3 filterDiv bpots">
+      <div class="cardmenu"  data-aos="fade-up" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
         <img class="card-img-top" src="assets/images/biriyani.jpeg" alt="Card image cap">
-        <div class="card-body-menu ">
+        <div class="card-body-menu d-flex flex-column ">
           <h4>Veg & Paneer Biriyani Pot</h4>
-          <p class="card-text"> <h6 style=" font-weight: bold;">Serves ( 2-3 person)</h6>Like Other Types Of Soft, Fresh Cheese Paneer Is Very Healthy.
+          <p class="card-text"> <h6 style=" font-weight: bold;">Serves ( 2-3 people)</h6>Like Other Types Of Soft, Fresh Cheese Paneer Is Very Healthy.
 Great Combination Of Protein And Other Nutrients Like Calcium And Vitamin D 
  </p>
 
-          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
+          <div class=" mt-auto">
+          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn align-self-end ">Order Now <i class="fa fa-arrow-right"> </i> </a>
+          </div>
         </div>
       </div>
 
@@ -128,30 +141,34 @@ Great Combination Of Protein And Other Nutrients Like Calcium And Vitamin D
 
     <!-- 2 pot -->
     <div class="col-md-3 filterDiv bpots">
-      <div class="cardmenu">  
+      <div class="cardmenu"  data-aos="fade-up" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">  
         <img class="card-img-top" src="assets/images/yellowboriyani2.jpeg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4>2 Pot Chicken Biriyani <p style="opacity: 0;">Pot</p> </h4>
-          <p class="card-text"><h6 style=" font-weight: bold;">Serves ( 2-3 person)</h6>Bobo’s Chicken Biriyani Is An Aromatic Delight Loved By AllYou’ll Find Whole Cuts Of Succulent Chicken Bursting With Flavor From The Potent Array Of Spices, Herb, And Aromatics! </p>
+        <div class="card-body-menu d-flex flex-column  ">
+          <h4>2 Pot Chicken Biriyani  </h4>
+          <p class="card-text"><h6 style=" font-weight: bold;">Serves ( 2-3 people)</h6>Bobo’s Chicken Biriyani Is An Aromatic Delight Loved By AllYou’ll Find Whole Cuts Of Succulent Chicken Bursting With Flavor From The Potent Array Of Spices, Herb, And Aromatics! </p>
 
-          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
+          <div class=" mt-auto">
+          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn align-self-end ">Order Now <i class="fa fa-arrow-right"> </i> </a>
+          </div>
+            </div>
       </div>
     </div>
 
     <div class="col-md-3 filterDiv bpots">
-      <div class="cardmenu">
+      <div class="cardmenu"  data-aos="fade-up" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
         <img class="card-img-top" src="assets/images/mullubiriyani.jpeg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4>2 Pot Mutton Biriyani <p style="opacity: 0;">Pot</p> </h4>
-          <p class="card-text"><h6 style=" font-weight: bold;">Serves ( 2-3 person)</h6>Is A Tasty and Delicious Biriyani That You Just Can’t Go Wrong With !
+        <div class="card-body-menu d-flex flex-column ">
+          <h4>2 Pot Mutton Biriyani  </h4>
+          <p class="card-text"><h6 style=" font-weight: bold;">Serves ( 2-3 people)</h6>Is A Tasty and Delicious Biriyani That You Just Can’t Go Wrong With !
 Australian Mutton (Goat Meat) Finest Quality Red Meet In The World.
 Boneless Leg Of Mutton Tender,
 Juicy And Mild In Flavor.
 </p>
 
-          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
+<div class=" mt-auto">
+          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn align-self-end ">Order Now <i class="fa fa-arrow-right"> </i> </a>
+          </div>
+                </div>
       </div>
     </div>
 
@@ -159,30 +176,34 @@ Juicy And Mild In Flavor.
 
 
     <div class="col-md-3 filterDiv bpots">
-      <div class="cardmenu">
+      <div class="cardmenu"  data-aos="fade-up" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
         <img class="card-img-top" src="assets/images/yelllobiriyani.jpeg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4>Chicken Biriyani Pot <p style="opacity: 0;">Pot</p></h4>
-          <p class="card-text"><h6 style=" font-weight: bold;">Serves ( 6-7 person)</h6>Bobo’s Chicken Biriyani Is An Aromatic Delight Loved By AllYou’ll Find Whole Cuts Of Succulent Chicken Bursting With Flavor From The Potent Array Of Spices, Herb, And Aromatics! </p>
+        <div class="card-body-menu d-flex flex-column ">
+          <h4>Chicken Biriyani Pot </h4>
+          <p class="card-text"><h6 style=" font-weight: bold;">Serves ( 6-7 people)</h6>Bobo’s Chicken Biriyani Is An Aromatic Delight Loved By AllYou’ll Find Whole Cuts Of Succulent Chicken Bursting With Flavor From The Potent Array Of Spices, Herb, And Aromatics! </p>
 
-          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
+          <div class=" mt-auto">
+          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn align-self-end ">Order Now <i class="fa fa-arrow-right"> </i> </a>
+          </div>
+                </div>
       </div>
     </div>
 
     <div class="col-md-3 filterDiv bpots">
-      <div class="cardmenu">
+      <div class="cardmenu"  data-aos="fade-up" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
         <img class="card-img-top" src="assets/images/biriyani_red.jpeg" alt="Card image cap">
-        <div class="card-body-menu ">
+        <div class="card-body-menu d-flex flex-column">
           <h4>Mutton Biriyani Pot </h4>
-          <p class="card-text"><h6 style=" font-weight: bold;">Serves ( 6-7 person)</h6>Is A Tasty and Delicious Biriyani That You Just Can’t Go Wrong With !
+          <p class="card-text"><h6 style=" font-weight: bold;">Serves ( 6-7 people)</h6>Is A Tasty and Delicious Biriyani That You Just Can’t Go Wrong With !
 Australian Mutton (Goat Meat) Finest Quality Red Meet In The World.
 Boneless Leg Of Mutton Tender,
 Juicy And Mild In Flavor.
 </p>
 
-          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
+<div class=" mt-auto">
+          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn align-self-end ">Order Now <i class="fa fa-arrow-right"> </i> </a>
+          </div>
+                </div>
       </div>
     </div>
 
@@ -191,78 +212,88 @@ Juicy And Mild In Flavor.
 <!-- ==========================Lunch Pack -->
 
 <div class="col-md-3 filterDiv  lpack">
-      <div class="cardmenu">
+      <div class="cardmenu"  data-aos="fade-up" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
         <img class="card-img-top" src="assets/images/white.jpeg" alt="Card image cap">
-        <div class="card-body-menu ">
+        <div class="card-body-menu d-flex flex-column  ">
           <h4> Mutton Masala Pot With Ghee Rice </h4>
           <p class="card-text">We Are Excited To Introduce Customer Meals That You Can Build To Your Individual Liking And Preference Its Meal Prep Made Easy
 
-          <p style="opacity: 0;">Bobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's fqwqfqwfqwfqfqf</p>
+          
           </p>
 
-          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
+          <div class=" mt-auto">
+          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn align-self-end ">Order Now <i class="fa fa-arrow-right"> </i> </a>
+          </div>
+                </div>
       </div>
     </div>
     <div class="col-md-3 filterDiv  lpack">
-      <div class="cardmenu">
+      <div class="cardmenu"  data-aos="fade-up" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
         <img class="card-img-top" src="assets/images/box.jpeg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> Personal Lunch Pack </h4>
-          <p class="card-text">We Are Excited To Introduce Customer Meals That You Can Build To Your Individual Liking And Preference Its Meal Prep Made Easy <p style="opacity: 0;">Bobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum Biriyani</p> </p>
+        <div class="card-body-menu d-flex flex-column">
+          <h4> peopleal Lunch Pack </h4>
+          <p class="card-text">We Are Excited To Introduce Customer Meals That You Can Build To Your Individual Liking And Preference Its Meal Prep Made Easy </p>
 
-          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
+          <div class=" mt-auto">
+          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn align-self-end ">Order Now <i class="fa fa-arrow-right"> </i> </a>
+          </div>
+                </div>
       </div>
     </div>
 
     <div class="col-md-3 filterDiv  lpack">
-      <div class="cardmenu">
+      <div class="cardmenu"  data-aos="fade-up" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
         <img class="card-img-top" src="assets/images/boxmilkshakoe.jpeg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> Personal Lunch Combo </h4>
-          <p class="card-text">Bobos Chicken Dum Biriyani Pack With A Bottle Of Almond Milk 200ml<p style="opacity: 0;">Bobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum Biriyani</p></p>
+        <div class="card-body-menu d-flex flex-column">
+          <h4> peopleal Lunch Combo </h4>
+          <p class="card-text">Bobos Chicken Dum Biriyani Pack With A Bottle Of Almond Milk 200ml</p>
 
-          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
+          <div class=" mt-auto">
+          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn align-self-end ">Order Now <i class="fa fa-arrow-right"> </i> </a>
+          </div>
+                </div>
       </div>
     </div>
 
 
 
     <div class="col-md-3 filterDiv  lpack">
-      <div class="cardmenu">
+    <div class="cardmenu"  data-aos="fade-up" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
         <img class="card-img-top" src="assets/images/boxredbott.jpeg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4>  Personal Lunch Combo  <span style="opacity: 0;">Pot eafqfqfqf</span> </h4>
+        <div class="card-body-menu d-flex flex-column">
+          <h4>  peopleal Lunch Combo </h4>
           <p class="card-text">Bobos Chicken Dum Biriyani Lunch Pack
-            With A Bottle Of Rose Mojito 200ml <p style="opacity: 0;">Bobo's Chicke Chicken Dum BiriyaniBobo's  's  Dum 's </p>
+            With A Bottle Of Rose Mojito 200ml
           </p>
 
-          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
+          <div class=" mt-auto">
+          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn align-self-end ">Order Now <i class="fa fa-arrow-right"> </i> </a>
+          </div>
+                </div>
       </div>
     </div>
 
 
 
     <div class="col-md-3 filterDiv  lpack">
-      <div class="cardmenu">
+    <div class="cardmenu"  data-aos="fade-up" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
         <img class="card-img-top" src="assets/images/boxredbull.jpeg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4>  Personal Lunch Combo   <span style="opacity: 0;">Pot eafqfqfqf</span></h4>
+        <div class="card-body-menu d-flex flex-column ">
+          <h4>  peopleal Lunch Combo  </h4>
           <p class="card-text">Bobos Chicken Dum Biriyani Lunch Pack
             With a Can Of Redbull 250ml
-            <p style="opacity: 0;">Bobo's Chicke Chicken Dum BiriyaniBobo's Chicken 's Chicken Dum BiriyaniBobo's  </p>
+           
           </p>
 
-          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
+          <div class=" mt-auto">
+          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn align-self-end ">Order Now <i class="fa fa-arrow-right"> </i> </a>
+          </div>
+                </div>
       </div>
     </div>
 
     <!-- <div class="col-md-3 filterDiv  lpack">
-      <div class="cardmenu">
+      <div class="cardmenu"  data-aos="fade-up" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
         <img class="card-img-top" src="assets/images/white.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
           <h4> Muttom Masala Pot With Ghee Rice </h4>
@@ -274,35 +305,39 @@ Juicy And Mild In Flavor.
     </div> -->
     <!-- ----------------------------------------------------------------------------------------------- -->
     <div class="col-md-3 filterDiv  bev">
-      <div class="cardmenu">
+      <div class="cardmenu"  data-aos="fade-up" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
         <img class="card-img-top" src="assets/images/redbottle.jpeg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> Rose Mojito <span style="opacity: 0;">Pot eafqfqfqf</span> </h4>
+        <div class="card-body-menu d-flex flex-column">
+          <h4> Rose Mojito </h4>
           <p class="card-text">A Refreshing,Non
             Alcoholic Summer Drink Made From
             Natural Rose Petals , Lime , Mint And Basil
             Seeds
-            <p style="opacity: 0;">Bobo's Chicke Chicken Dum BiriyaniBobo's Chicken 's  Dum 's </p>
+           
           </p>
 
-          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
+          <div class=" mt-auto">
+          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn align-self-end ">Order Now <i class="fa fa-arrow-right"> </i> </a>
+          </div>
+                </div>
       </div>
     </div>
 
 
     <div class="col-md-3 filterDiv  bev">
-      <div class="cardmenu">
+      <div class="cardmenu"  data-aos="fade-up" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
         <img class="card-img-top" src="assets/images/mikshake.jpeg" alt="Card image cap">
-        <div class="card-body-menu ">
-          <h4> ALMOND MILK WITH SAFFRON </h4>
+        <div class="card-body-menu d-flex flex-column">
+          <h4> Almond Milk With Safron </h4>
           <p class="card-text">
             Extremely Nutritious And Healthy , Loaded With Goodness Of Almonds And Saffron!
-            <p style="opacity: 0;">Bobo's Chicke Chicken Dum BiriyaniBobo's Chicken 's </p>
+           
           </p>
 
-          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
-        </div>
+          <div class=" mt-auto">
+          <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn align-self-end ">Order Now <i class="fa fa-arrow-right"> </i> </a>
+          </div>
+                </div>
       </div>
     </div>
 
@@ -310,7 +345,7 @@ Juicy And Mild In Flavor.
     <!----------------------------------------------------------------------------------------------  -->
 
     <!-- <div class="col-md-3 filterDiv masala">
-      <div class="cardmenu">
+      <div class="cardmenu"  data-aos="fade-up" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
         <img class="card-img-top" src="assets/images/curry.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
           <h4> Mutton Masala Pot </h4>
@@ -332,15 +367,15 @@ Juicy And Mild In Flavor.
 <div id="abt" class="about-main pad-top-100 pad-bottom-100" >
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12"  data-aos="fade-right" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
                     <div class="wow fadeIn" data-wow-duration="1s" data-wow-delay="0.1s">
                         <h2 class="brushfont"> About Us </h2>
-                        <h3> <p style=" text-align: justify;"> If You Are Among Those Who Find Pleasure In Home Cooked Food, You Are In The Right Place. Preparation Of All Cuisines With Different Condiments And Finest Ingredients With A Twist Of Sri Lankan Spices Will Give Your Tastebuds A Meal To Remember ! </p></h3>
+                        <h3> <p style=" text-align: justify;"> If You Are Among Those Who Find Pleasure In Home Cooked Food, You Are In The Right Place. Preparation Of All Cuisines With Different Condiments And Finest Ingredients With A Twist Of Sri Lankan Spices Will Give Your Tastebuds A Meal To Remember ! Bobo ‘Specialized In The Preparation O F All Cosines With Different Condiments And Finest Ingredients With A Twist Of Sri Lankan Spices. </p></h3>
                        
                     </div>
                 </div>
                 <!-- end col -->
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 justify-content-center">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 justify-content-center"  data-aos="fade-left" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
                     <div class="wow fadeIn" data-wow-duration="1s" data-wow-delay="0.1s">
                         <div class="about-images">
                             <img class="about-main" src="assets/images/about.jpeg" alt="About Main Image">
@@ -358,7 +393,7 @@ Juicy And Mild In Flavor.
      <div class="container">
           <div class="row">
 
-               <div class="col-md-4 col-sm-8 review-images my-3 justify-content-center">
+               <div class="col-md-4 col-sm-8 review-images my-3 justify-content-center"  data-aos="fade-right" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
                <div class="wow fadeInUp" data-wow-delay="0.4s">
                          <h4 style="color: #fff;">Review</h4>
                          <p class="brushfont">By :  <img style="border-color: #000;" src="assets/images/yamu.png" alt="about image"></p>
@@ -368,16 +403,14 @@ Juicy And Mild In Flavor.
                     
                </div>
 
-               <div class="col-md-8 col-sm-12 align-middle my-5">
+               <div class="col-md-8 col-sm-12 align-middle my-5"  data-aos="fade-left" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
                     <div class="about-thumb my-5 ">
                          <div class="wow fadeInUp section-title" data-wow-delay="0.6s">
                               <h3 class="brushfont">BOBO'S</h3>
-                              <h2 style="color: #eee;">The Biriyani Pot
-
-Served in clay pots, Bobo's</h2>
+                              
                          </div>
                          <div class="wow fadeInUp" data-wow-delay="0.8s">
-                              <p style="text-align: justify;">  biriyanis are available with three kinds of proteins - Chicken, Australian Mutton and Paneer. Depending on the size of your group, you can opt for the small pot (recommended for 2 - 3 people) or the large pot (recommended for 6 - 7 people). They also do single portions of Chicken biriyani, which arrive in cardboard boxes.</p>
+                              <p style="text-align: justify;">  The Biriyani Pot Served in clay pots, Bobo's biriyanis are available with three kinds of proteins - Chicken, Australian Mutton and Paneer. Depending on the size of your group, you can opt for the small pot (recommended for 2 - 3 people) or the large pot (recommended for 6 - 7 people). They also do single portions of Chicken biriyani, which arrive in cardboard boxes.</p>
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
                                 <span class="fa fa-star checked"></span>
@@ -400,7 +433,7 @@ Served in clay pots, Bobo's</h2>
 
 
 
-<div id="carouselExampleIndicators" class="carousel slide parallax" data-ride="carousel">
+<div id="carouselExampleIndicators" class="carousel slide parallax" data-ride="carousel"  data-aos="fade-up" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
   <div class=" text-center heading-section ftco-animate  my-5 ">
     <p class=" brushfont">Testimonial</p>
   </div>
@@ -557,7 +590,7 @@ Served in clay pots, Bobo's</h2>
                   <blockquote class="blockquote blockquote-custom  p-5 shadow rounded" style="background-color: #deb150;   outline: 1px solid black;
     outline-offset: -10px;">
                   
-                    <p class="mb-0 mt-2 font-italic"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmarlonfernando777%2Fposts%2F10218660216559458&show_text=true&width=500" width="100%" height="301" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></p>
+                    <p class="mb-0 mt-2 font-italic"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FR.ILLAYA%2Fposts%2F3879755788757900&show_text=true&width=500" width="100%" height="169" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></p>
                     
                   </blockquote><!-- END -->
 
@@ -585,7 +618,7 @@ Served in clay pots, Bobo's</h2>
 
 <!----------------------------------contact us ------------------------------------------------------------------------------------->
 
-<div class="container-fluid " id="contact" style="background-color: #000;">
+<div class="container-fluid " id="contact" style="background-color: #000;"  data-aos="fade-up" data-aos-offset="200" data-aos-delay="30" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false">
   <div class="cswrapper " >
     <div class="csoverlay ">
       <div class="row d-flex justify-content-center align-items-center ">
@@ -620,7 +653,7 @@ Served in clay pots, Bobo's</h2>
                     </div>
                   </div>
 
-                  <div class="d-flex flex-row align-items-center mt-3"> <span class="icons">     <a href="https://www.facebook.com/Bobos.bbp">
+                  <div class="d-flex flex-row align-items-center mt-3 my-5"> <span class="icons">     <a href="https://www.facebook.com/Bobos.bbp">
         <i style="color: #000;" class="fab fa-facebook"></i>
       </a>
     
@@ -724,7 +757,7 @@ Served in clay pots, Bobo's</h2>
   .sqrbox {
     border: #deb150 solid 1px;
 
-    padding: auto;
+
 
   }
 
