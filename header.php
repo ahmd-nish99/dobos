@@ -5,6 +5,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.9, shrink-to-fit=no">
 
+  <meta name="description" content="">
+  <meta name="keywords" content="bobos,bobosbriyani,potbiriyani,bobospotbiriyani,lunchpack,biriyanisrilanka,srilanka,boboscontact,biriyani sawan,biriyani sawan delivery,how to make biriyani,biriyani sawan colombo,pot biriyani colombo
+  biriyani recipe,menu,dindigul thalappakatti biriyani colombo,biriyani movie">
+  <meta name="author" content="Shadzil">
+
     <!-- Bootstrap CSS -->
     <!-- <link rel="stylesheet" href="assets/css/bootstrap.css" > -->
     <link rel="stylesheet" href="assets/css/bootstrap.css.map " >
