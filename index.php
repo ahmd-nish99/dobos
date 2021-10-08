@@ -116,7 +116,9 @@ include_once "nav.php";
         <img class="card-img-top" src="assets/images/biriyani.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
           <h4>Veg & Paneer Biriyani Pot</h4>
-          <p class="card-text"> <h6 style=" font-weight: bold;">Serves ( 2-3 person)</h6> Biriyani with Five Kinds Of Vegetable Served With Premium Quality Long Grain Fluffy Basmati Rice, Cucumber Onion Raita, Mintsambal , Bobo's Spicy Gravy, Fried Boiled Eggs & Crèam Caramel</p>
+          <p class="card-text"> <h6 style=" font-weight: bold;">Serves ( 2-3 person)</h6>Like Other Types Of Soft, Fresh Cheese Paneer Is Very Healthy.
+Great Combination Of Protein And Other Nutrients Like Calcium And Vitamin D 
+ </p>
 
           <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
@@ -130,7 +132,7 @@ include_once "nav.php";
         <img class="card-img-top" src="assets/images/yellowboriyani2.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
           <h4>2 Pot Chicken Biriyani <p style="opacity: 0;">Pot</p> </h4>
-          <p class="card-text"><h6 style=" font-weight: bold;">Serves ( 2-3 person)</h6>Bobos Chicken Dum Biriyani Served With Premium Quality Long Grain Fluffy Basmati Rice, Cucumber Onion Raita, Mintsambal , Bobo's Spicy Gravy, Fried Boiled Eggs & Crèam Caramel</p>
+          <p class="card-text"><h6 style=" font-weight: bold;">Serves ( 2-3 person)</h6>Bobo’s Chicken Biriyani Is An Aromatic Delight Loved By AllYou’ll Find Whole Cuts Of Succulent Chicken Bursting With Flavor From The Potent Array Of Spices, Herb, And Aromatics! </p>
 
           <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
@@ -142,7 +144,11 @@ include_once "nav.php";
         <img class="card-img-top" src="assets/images/mullubiriyani.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
           <h4>2 Pot Mutton Biriyani <p style="opacity: 0;">Pot</p> </h4>
-          <p class="card-text"><h6 style=" font-weight: bold;">Serves ( 2-3 person)</h6>Australian Boneless Mutton Biriyani Served With Premium Quality Long Grain Fluffy Basmati Rice, Cucumber Onion Raita, Mintsambal , Bobo's Spicy Gravy, Fried Boiled Eggs & Crèam Caramel</p>
+          <p class="card-text"><h6 style=" font-weight: bold;">Serves ( 2-3 person)</h6>Is A Tasty and Delicious Biriyani That You Just Can’t Go Wrong With !
+Australian Mutton (Goat Meat) Finest Quality Red Meet In The World.
+Boneless Leg Of Mutton Tender,
+Juicy And Mild In Flavor.
+</p>
 
           <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
@@ -157,7 +163,7 @@ include_once "nav.php";
         <img class="card-img-top" src="assets/images/yelllobiriyani.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
           <h4>Chicken Biriyani Pot <p style="opacity: 0;">Pot</p></h4>
-          <p class="card-text"><h6 style=" font-weight: bold;">Serves ( 6-7 person)</h6>Bobos Chicken Dum Biriyani Served With Premium Quality Long Grain Fluffy Basmati Rice, Cucumber Onion Raita, Mintsambal , Bobo's Spicy Gravy, Fried Boiled Eggs & Crèam Caramel</p>
+          <p class="card-text"><h6 style=" font-weight: bold;">Serves ( 6-7 person)</h6>Bobo’s Chicken Biriyani Is An Aromatic Delight Loved By AllYou’ll Find Whole Cuts Of Succulent Chicken Bursting With Flavor From The Potent Array Of Spices, Herb, And Aromatics! </p>
 
           <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
@@ -169,7 +175,11 @@ include_once "nav.php";
         <img class="card-img-top" src="assets/images/biriyani_red.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
           <h4>Mutton Biriyani Pot </h4>
-          <p class="card-text"><h6 style=" font-weight: bold;">Serves ( 6-7 person)</h6>Australian Boneless Mutton Biriyani Served With Premium Quality Long Grain Fluffy Basmati Rice, Cucumber Onion Raita, Mintsambal , Bobo's Spicy Gravy, Fried Boiled Eggs & Crèam Caramel</p>
+          <p class="card-text"><h6 style=" font-weight: bold;">Serves ( 6-7 person)</h6>Is A Tasty and Delicious Biriyani That You Just Can’t Go Wrong With !
+Australian Mutton (Goat Meat) Finest Quality Red Meet In The World.
+Boneless Leg Of Mutton Tender,
+Juicy And Mild In Flavor.
+</p>
 
           <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
@@ -185,7 +195,7 @@ include_once "nav.php";
         <img class="card-img-top" src="assets/images/white.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
           <h4> Mutton Masala Pot With Ghee Rice </h4>
-          <p class="card-text">You Can Enjoy Our Mutton Masala Pot With a Side Of Fluffy Long-Grain Basmathi Ghee Rice
+          <p class="card-text">We Are Excited To Introduce Customer Meals That You Can Build To Your Individual Liking And Preference Its Meal Prep Made Easy
 
           <p style="opacity: 0;">Bobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's fqwqfqwfqwfqfqf</p>
           </p>
@@ -199,7 +209,7 @@ include_once "nav.php";
         <img class="card-img-top" src="assets/images/box.jpeg" alt="Card image cap">
         <div class="card-body-menu ">
           <h4> Personal Lunch Pack </h4>
-          <p class="card-text"> Bobo's Chicken Dum Biriyani <br> Lunch Pack <p style="opacity: 0;">Bobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum Biriyani</p> </p>
+          <p class="card-text">We Are Excited To Introduce Customer Meals That You Can Build To Your Individual Liking And Preference Its Meal Prep Made Easy <p style="opacity: 0;">Bobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum BiriyaniBobo's Chicken Dum Biriyani</p> </p>
 
           <a href="https://wa.me/+94777154945"  target="_blank" class="theme-btn">Order Now <i class="fa fa-arrow-right"> </i> </a>
         </div>
