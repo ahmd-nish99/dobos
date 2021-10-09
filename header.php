@@ -61,5 +61,5 @@
 
   </head>
   <body style="background-color: #2d3436;
-background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);"> 
+background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%); "> 
   <!-- style="    background-color: black;" -->
